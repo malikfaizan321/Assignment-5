@@ -1,0 +1,1 @@
+alert("Asslam-0-Alaikum")
